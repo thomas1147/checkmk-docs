@@ -1136,7 +1136,7 @@ Calling up is very easy and it uses the `bake_agents` command:
 
 {cee-only}
 {CMK} in fact provides the facility for integrating external metrics
-data bases. In principle however, with the `get_graph` command {CMK}’s
+databases. In principle however, with the `get_graph` command {CMK}’s
 metrics data can be accessed by any third-party software. In this way the user
 is not bound to our standard-issue graphs and can utilise their own self-created
 custom graphs. The data will then always be produced for a complete graph, even
